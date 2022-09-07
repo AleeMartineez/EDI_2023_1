@@ -1,0 +1,3 @@
+C:/Users/aleja/CLionProjects/Condicionales_1/cmake-build-debug/CMakeFiles/Condicionales_1.dir
+C:/Users/aleja/CLionProjects/Condicionales_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleja/CLionProjects/Condicionales_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
